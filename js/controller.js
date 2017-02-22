@@ -251,9 +251,40 @@ var controller = {
       );
 
       return false;
-    }
-    ,
-  }
-  ;
+    },
+
+    resumeOnLaunch: function () {
+      var message;
+      var reprompt;
+
+      var currentTrack = controller.getCurrentTrack.call(this);
+
+      if (currentTrack && this.attributes['currentList']) {
+        this.handler.state = constants.states.RESUME_DECISION_MODE;
+        message = 'You were listening to ' + s.convertString(currentTrack.title) + ' by '
+          + s.convertString(currentTrack.username) + '. Would you like to resume?';
+        reprompt = 'You can say yes to resume or no to play something else.';
+      } else {
+        this.handler.state = constants.states.PLAY_MODE;
+        message = 'Soundcloud. The music of your dreams.';
+        reprompt = 'You can say, play songs by an artist, or play a genre, to begin.';
+      }
+
+      this.response.speak(message).listen(reprompt);
+      this.emit(':responseReady');
+    },
+
+    whatIsCurrentSong: function () {
+      var currentTrack = controller.getCurrentTrack.call(this);
+
+      var message = 'You are listening to ' + s.convertString(currentTrack.title) + ' by '
+        + s.convertString(currentTrack.username) + '.';
+      this.response.speak(message);
+
+      controller.createCard.call(this);
+
+      this.emit(':responseReady');
+    },
+  };
 
 module.exports = controller;

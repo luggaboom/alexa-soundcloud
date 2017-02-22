@@ -11,34 +11,10 @@ var resumeDecisionStateHandler = Alexa.CreateStateHandler(constants.states.RESUM
      *  All Intent Handlers for state : RESUME_DECISION_MODE
      */
     'LaunchRequest': function () {
-      var message;
-      var reprompt;
-
-      var currentTrack = controller.getCurrentTrack.call(this);
-
-      if (currentTrack && this.attributes['currentList']) {
-        message = 'You were listening to ' + s.convertString(currentTrack.title) + ' by '
-          + s.convertString(currentTrack.username) + '. Would you like to resume?';
-        reprompt = 'You can say yes to resume or no to play something else.';
-      } else {
-        this.handler.state = constants.states.PLAY_MODE;
-        message = 'Soundcloud. The music of your dreams.';
-        reprompt = 'You can say, play songs by an artist, to begin.';
-      }
-
-      this.response.speak(message).listen(reprompt);
-      this.emit(':responseReady');
+      controller.resumeOnLaunch.call(this);
     },
     'WhatIsCurrentSong': function () {
-      var currentTrack = controller.getCurrentTrack.call(this);
-
-      var message = 'You were listening to ' + s.convertString(currentTrack.title) + ' by '
-        + s.convertString(currentTrack.username) + '.';
-      this.response.speak(message);
-
-      controller.createCard.call(this);
-
-      this.emit(':responseReady');
+      controller.whatIsCurrentSong.call(this);
     },
     'PlayAudioByArtist': function () {
       controller.playAudioByArtist.call(this);
