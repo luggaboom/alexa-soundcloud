@@ -1,0 +1,30 @@
+{
+  "name": "alexa-SoundCloud",
+  "version": "1.0.0",
+  "description": "An Alexa link to SoundCloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio player"
+  ],
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "body-parser": "^1.16.1",
+    "ejs": "^2.5.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luggaboom/alexa-soundcloud"
+  },
+  "devDependencies": {
+    "alexa-app": "^2.4.0",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "node-soundcloud": "0.0.6",
+    "request": "^2.79.0"
+  }
+}

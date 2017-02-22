@@ -1,0 +1,267 @@
+PlayAudioByArtist play songs by {Kuo|Artist}
+PlayAudioByArtist play songs by {Pomodorosa|Artist}
+PlayAudioByArtist play songs by {Oh starchild|Artist}
+PlayAudioByArtist play songs by {Raptures of Lovers|Artist}
+PlayAudioByArtist play a song by {this could be us|Artist}
+PlayAudioByArtist play a song by {Kuo|Artist}
+PlayAudioByArtist play a song by {Pomodorosa|Artist}
+PlayAudioByArtist play a song by {Oh starchild|Artist}
+PlayAudioByArtist play a song by {Raptures of Lovers|Artist}
+PlayAudioByArtist play a song by {this could be us|Artist}
+PlayAudioByArtist start songs by {Kuo|Artist}
+PlayAudioByArtist start songs by {Pomodorosa|Artist}
+PlayAudioByArtist start songs by {Oh starchild|Artist}
+PlayAudioByArtist start songs by {Raptures of Lovers|Artist}
+PlayAudioByArtist start songs by {this could be us|Artist}
+
+PlayAudioByArtist play tunes by {Kuo|Artist}
+PlayAudioByArtist play tunes by {Pomodorosa|Artist}
+PlayAudioByArtist play tunes by {Oh starchild|Artist}
+PlayAudioByArtist play tunes by {Raptures of Lovers|Artist}
+PlayAudioByArtist play a tune by {this could be us|Artist}
+PlayAudioByArtist play a tune by {Kuo|Artist}
+PlayAudioByArtist play a tune by {Pomodorosa|Artist}
+PlayAudioByArtist play a tune by {Oh starchild|Artist}
+PlayAudioByArtist play a tune by {Raptures of Lovers|Artist}
+PlayAudioByArtist play a tune by {this could be us|Artist}
+PlayAudioByArtist start tunes by {Kuo|Artist}
+PlayAudioByArtist start tunes by {Pomodorosa|Artist}
+PlayAudioByArtist start tunes by {Oh starchild|Artist}
+PlayAudioByArtist start tunes by {Raptures of Lovers|Artist}
+PlayAudioByArtist start tunes by {this could be us|Artist}
+
+
+PlayAudioByArtist play something by {Kuo|Artist}
+PlayAudioByArtist play something by {Pomodorosa|Artist}
+PlayAudioByArtist play something by {Oh starchild|Artist}
+PlayAudioByArtist play something by {Raptures of Lovers|Artist}
+PlayAudioByArtist play something by {this could be us|Artist}
+PlayAudioByArtist start something by {Kuo|Artist}
+PlayAudioByArtist start something by {Pomodorosa|Artist}
+PlayAudioByArtist start something by {Oh starchild|Artist}
+PlayAudioByArtist start something by {Raptures of Lovers|Artist}
+PlayAudioByArtist start something by {this could be us|Artist}
+
+PlayAudioByArtist play music by {Kuo|Artist}
+PlayAudioByArtist play music by {Pomodorosa|Artist}
+PlayAudioByArtist play music by {Oh starchild|Artist}
+PlayAudioByArtist play music by {Raptures of Lovers|Artist}
+PlayAudioByArtist play music by {this could be us|Artist}
+PlayAudioByArtist start music by {Kuo|Artist}
+PlayAudioByArtist start music by {Pomodorosa|Artist}
+PlayAudioByArtist start music by {Oh starchild|Artist}
+PlayAudioByArtist start music by {Raptures of Lovers|Artist}
+PlayAudioByArtist start music by {this could be us|Artist}
+
+WhatIsCurrentSong what song is this
+WhatIsCurrentSong what song is playing
+WhatIsCurrentSong what is this song
+WhatIsCurrentSong tell me what song this is
+WhatIsCurrentSong what song this is
+WhatIsCurrentSong what is this
+WhatIsCurrentSong what is playing
+WhatIsCurrentSong tell me what this is
+WhatIsCurrentSong what this is
+WhatIsCurrentSong say what that song was
+WhatIsCurrentSong say what this song is
+WhatIsCurrentSong what song was that
+WhatIsCurrentSong what was that
+WhatIsCurrentSong tell me what that song was
+WhatIsCurrentSong tell me what song that was
+WhatIsCurrentSong tell me what was playing
+WhatIsCurrentSong what was playing
+
+WhatIsCurrentSong what tune is this
+WhatIsCurrentSong what tune is playing
+WhatIsCurrentSong what is this tune
+WhatIsCurrentSong tell me what tune this is
+WhatIsCurrentSong what tune this is
+WhatIsCurrentSong say what that tune was
+WhatIsCurrentSong say what this tune is
+WhatIsCurrentSong what tune was that
+WhatIsCurrentSong tell me what that tune was
+WhatIsCurrentSong tell me what tune that was
+
+WhatIsCurrentSong what artist is this
+WhatIsCurrentSong what artist is playing
+WhatIsCurrentSong what is this artist
+WhatIsCurrentSong tell me what artist this is
+WhatIsCurrentSong what artist this is
+WhatIsCurrentSong say what that artist was
+WhatIsCurrentSong say what this artist is
+WhatIsCurrentSong what artist was that
+WhatIsCurrentSong tell me what that artist was
+WhatIsCurrentSong tell me what artist that was
+
+WhatIsCurrentSong what singer is this
+WhatIsCurrentSong what singer is playing
+WhatIsCurrentSong what is this singer
+WhatIsCurrentSong tell me what singer this is
+WhatIsCurrentSong what singer this is
+WhatIsCurrentSong say what that singer was
+WhatIsCurrentSong say what this singer is
+WhatIsCurrentSong what singer was that
+WhatIsCurrentSong tell me what that singer was
+WhatIsCurrentSong tell me what singer that was
+
+DiscoverAudioByGenre begin playing some {chillhop|Genre}
+DiscoverAudioByGenre begin playing some {chill|Genre} artists
+DiscoverAudioByGenre begin playing some {funk|Genre} genre
+DiscoverAudioByGenre begin playing some {future funk|Genre} music
+DiscoverAudioByGenre begin playing some {house|Genre} singers
+DiscoverAudioByGenre begin playing some {indie|Genre} songs
+DiscoverAudioByGenre begin playing some {jazz|Genre} tunes
+
+DiscoverAudioByGenre begin playing {blues|Genre}
+DiscoverAudioByGenre begin playing {R and B|Genre} artists
+DiscoverAudioByGenre begin playing {folk|Genre} genre
+DiscoverAudioByGenre begin playing {electronic|Genre} music
+DiscoverAudioByGenre begin playing {edm|Genre} singers
+DiscoverAudioByGenre begin playing {dubstep|Genre} songs
+DiscoverAudioByGenre begin playing {latin|Genre} tunes
+
+DiscoverAudioByGenre begin some {disco|Genre}
+DiscoverAudioByGenre begin some {deephouse|Genre} artists
+DiscoverAudioByGenre begin some {dance|Genre} genre
+DiscoverAudioByGenre begin some {dancehouse|Genre} music
+DiscoverAudioByGenre begin some {lofi|Genre} singers
+DiscoverAudioByGenre begin some {lofi|Genre} songs
+DiscoverAudioByGenre begin some {lofi|Genre} tunes
+
+DiscoverAudioByGenre begin {country|Genre}
+DiscoverAudioByGenre begin {classical|Genre} artists
+DiscoverAudioByGenre begin {ambient|Genre} genre
+DiscoverAudioByGenre begin {alternative|Genre} music
+DiscoverAudioByGenre begin {reggaeton|Genre} singers
+DiscoverAudioByGenre begin {metal|Genre} songs
+DiscoverAudioByGenre begin {singer songwriter|Genre} tunes
+
+DiscoverAudioByGenre discover some {piano|Genre}
+DiscoverAudioByGenre discover some {drum and bass|Genre} artists
+DiscoverAudioByGenre discover some {hip hop|Genre} genre
+DiscoverAudioByGenre discover some {rock|Genre} music
+DiscoverAudioByGenre discover some {beats|Genre} singers
+DiscoverAudioByGenre discover some {world|Genre} songs
+DiscoverAudioByGenre discover some {soundtrack|Genre} tunes
+
+DiscoverAudioByGenre find me {pop|Genre}
+DiscoverAudioByGenre find me {electro|Genre} artists
+DiscoverAudioByGenre find me {pop|Genre} genre
+DiscoverAudioByGenre find me {pop|Genre} music
+DiscoverAudioByGenre find me {pop|Genre} singers
+DiscoverAudioByGenre find me {pop|Genre} songs
+DiscoverAudioByGenre find me {pop|Genre} tunes
+
+DiscoverAudioByGenre play me {pop|Genre}
+DiscoverAudioByGenre play me {pop|Genre} artists
+DiscoverAudioByGenre play me {pop|Genre} genre
+DiscoverAudioByGenre play me {pop|Genre} music
+DiscoverAudioByGenre play me {pop|Genre} singers
+DiscoverAudioByGenre play me {pop|Genre} songs
+DiscoverAudioByGenre play me {pop|Genre} tunes
+
+DiscoverAudioByGenre playing {pop|Genre}
+DiscoverAudioByGenre playing {pop|Genre} artists
+DiscoverAudioByGenre playing {pop|Genre} genre
+DiscoverAudioByGenre playing {pop|Genre} music
+DiscoverAudioByGenre playing {pop|Genre} singers
+DiscoverAudioByGenre playing {pop|Genre} songs
+DiscoverAudioByGenre playing {pop|Genre} tunes
+
+DiscoverAudioByGenre discover {pop|Genre}
+DiscoverAudioByGenre discover {pop|Genre} artists
+DiscoverAudioByGenre discover {pop|Genre} genre
+DiscoverAudioByGenre discover {pop|Genre} music
+DiscoverAudioByGenre discover {pop|Genre} singers
+DiscoverAudioByGenre discover {pop|Genre} songs
+DiscoverAudioByGenre discover {pop|Genre} tunes
+
+DiscoverAudioByGenre find some {psychadelic|Genre}
+DiscoverAudioByGenre find some {psychadelic|Genre} artists
+DiscoverAudioByGenre find some {psychadelic|Genre} genre
+DiscoverAudioByGenre find some {psychadelic|Genre} music
+DiscoverAudioByGenre find some {psychadelic|Genre} singers
+DiscoverAudioByGenre find some {psychadelic|Genre} songs
+DiscoverAudioByGenre find some {psychadelic|Genre} tunes
+
+DiscoverAudioByGenre find {punk|Genre}
+DiscoverAudioByGenre find {punk|Genre} artists
+DiscoverAudioByGenre find {punk|Genre} genre
+DiscoverAudioByGenre find {punk|Genre} music
+DiscoverAudioByGenre find {punk|Genre} singers
+DiscoverAudioByGenre find {punk|Genre} songs
+DiscoverAudioByGenre find {punk|Genre} tunes
+
+DiscoverAudioByGenre get some {rap|Genre}
+DiscoverAudioByGenre get some {rap|Genre} artists
+DiscoverAudioByGenre get some {rap|Genre} genre
+DiscoverAudioByGenre get some {rap|Genre} music
+DiscoverAudioByGenre get some {rap|Genre} singers
+DiscoverAudioByGenre get some {rap|Genre} songs
+DiscoverAudioByGenre get some {rap|Genre} tunes
+
+DiscoverAudioByGenre get {reggae|Genre}
+DiscoverAudioByGenre get {reggae|Genre} artists
+DiscoverAudioByGenre get {reggae|Genre} genre
+DiscoverAudioByGenre get {reggae|Genre} music
+DiscoverAudioByGenre get {reggae|Genre} singers
+DiscoverAudioByGenre get {reggae|Genre} songs
+DiscoverAudioByGenre get {reggae|Genre} tunes
+
+DiscoverAudioByGenre play some {shoegaze|Genre}
+DiscoverAudioByGenre play some {shoegaze|Genre} artists
+DiscoverAudioByGenre play some {shoegaze|Genre} genre
+DiscoverAudioByGenre play some {shoegaze|Genre} music
+DiscoverAudioByGenre play some {shoegaze|Genre} singers
+DiscoverAudioByGenre play some {shoegaze|Genre} songs
+DiscoverAudioByGenre play some {shoegaze|Genre} tunes
+
+DiscoverAudioByGenre play {soul|Genre}
+DiscoverAudioByGenre play {soul|Genre} artists
+DiscoverAudioByGenre play {soul|Genre} genre
+DiscoverAudioByGenre play {soul|Genre} music
+DiscoverAudioByGenre play {soul|Genre} singers
+DiscoverAudioByGenre play {soul|Genre} songs
+DiscoverAudioByGenre play {soul|Genre} tunes
+
+DiscoverAudioByGenre playing {techno|Genre}
+DiscoverAudioByGenre playing {techno|Genre} artists
+DiscoverAudioByGenre playing {techno|Genre} genre
+DiscoverAudioByGenre playing {techno|Genre} music
+DiscoverAudioByGenre playing {techno|Genre} singers
+DiscoverAudioByGenre playing {techno|Genre} songs
+DiscoverAudioByGenre playing {techno|Genre} tunes
+
+DiscoverAudioByGenre start playing some {trance|Genre}
+DiscoverAudioByGenre start playing some {trance|Genre} artists
+DiscoverAudioByGenre start playing some {trance|Genre} genre
+DiscoverAudioByGenre start playing some {trance|Genre} music
+DiscoverAudioByGenre start playing some {trance|Genre} singers
+DiscoverAudioByGenre start playing some {trance|Genre} songs
+DiscoverAudioByGenre start playing some {trance|Genre} tunes
+
+DiscoverAudioByGenre start playing {trap|Genre}
+DiscoverAudioByGenre start playing {trap|Genre} artists
+DiscoverAudioByGenre start playing {trap|Genre} genre
+DiscoverAudioByGenre start playing {trap|Genre} music
+DiscoverAudioByGenre start playing {trap|Genre} singers
+DiscoverAudioByGenre start playing {trap|Genre} songs
+DiscoverAudioByGenre start playing {trap|Genre} tunes
+
+DiscoverAudioByGenre start some {triphop|Genre}
+DiscoverAudioByGenre start some {triphop|Genre} artists
+DiscoverAudioByGenre start some {triphop|Genre} genre
+DiscoverAudioByGenre start some {triphop|Genre} music
+DiscoverAudioByGenre start some {triphop|Genre} singers
+DiscoverAudioByGenre start some {triphop|Genre} songs
+DiscoverAudioByGenre start some {triphop|Genre} tunes
+
+DiscoverAudioByGenre start {vibes|Genre}
+DiscoverAudioByGenre start {vibes|Genre} artists
+DiscoverAudioByGenre start {vibes|Genre} genre
+DiscoverAudioByGenre start {vibes|Genre} music
+DiscoverAudioByGenre start {vibes|Genre} singers
+DiscoverAudioByGenre start {vibes|Genre} songs
+DiscoverAudioByGenre start {vibes|Genre} tunes
+
+

@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "intent": "PlayAudioByArtist",
+      "slots": [
+        {
+          "name": "Artist",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "DiscoverAudioByGenre",
+      "slots": [
+        {
+          "name": "Genre",
+          "type": "LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "WhatIsCurrentSong"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.NextIntent"
+    },
+    {
+      "intent": "AMAZON.PreviousIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}
